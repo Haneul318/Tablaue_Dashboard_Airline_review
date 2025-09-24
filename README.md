@@ -18,7 +18,7 @@ Key design principles:
 
 ---
 
-## 📊 Data & Dashboard Overview
+## 📊 Data & Dashboard Overview 
 - **Data Sources**:  
   - `ba_reviews.csv`: Review-level data for British Airways (ratings, aircraft, seat type, traveler type, date, place, etc.)  
   - `countries.csv`: Country mapping table for geographic visualization.  
